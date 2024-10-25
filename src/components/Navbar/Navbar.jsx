@@ -29,7 +29,8 @@ export default function Navbar() {
                 <Toolbar
                     sx={{
                         display: "flex",
-                        justifyContent: "space-between"
+                        justifyContent: "space-between",
+                        padding: "0 !important"
                     }}
                 >
                     <img
