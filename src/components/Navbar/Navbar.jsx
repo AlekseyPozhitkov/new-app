@@ -22,7 +22,7 @@ export default function Navbar() {
                 sx={{
                     background: "white",
                     color: "black",
-                    padding: "0 10%"
+                    padding: "0 20%"
                 }}
                 position="static"
             >
